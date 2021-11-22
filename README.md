@@ -1,0 +1,2 @@
+# PIC16F887-DS3231-RTC
+XC8 Compiler C Code for interfacing PIC16F887 and DS3231/DS1307 RTC
